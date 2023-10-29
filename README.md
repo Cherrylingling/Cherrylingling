@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning studying software engineering
+- 🌱 I’m currently studying software engineering
 - 🤔 I’m looking for help with studying :) haha...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like food
