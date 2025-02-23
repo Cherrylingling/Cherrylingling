@@ -1,8 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently studying software engineering
-- 🤔 I’m looking for help with studying :) haha...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like food
 
 <!--
 **Cherrylingling/Cherrylingling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
